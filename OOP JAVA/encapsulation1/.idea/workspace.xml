@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd5ad4ca-2a98-41a8-a66b-18ea012d687d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../classConcept/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classConcept/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classConcept/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classConcept/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classConcept/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classConcept/classConcept.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classConcept/src/Matematik.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classConcept/src/classConcept.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes2/classes2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes2/src/Telefon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes2/src/classes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes3/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes3/classes3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes3/src/Insan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes3/src/classes3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes4/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes4/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes4/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes4/classes4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes4/src/Muhasebe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes4/src/classes4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classes4/src/veritabani.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,28 +16,28 @@
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="3GdgVwX6jMPC7B7bk1rjh9b7dfa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
