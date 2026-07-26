@@ -1,5 +1,11 @@
 # Java Learning
 
+![Java](https://img.shields.io/badge/Language-Java-orange)
+![Status](https://img.shields.io/badge/Status-Learning-blue)
+
+
+# Java Learning
+
 This repository contains my Java learning journey.
 
 ## Topics
