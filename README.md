@@ -4,9 +4,7 @@
 ![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?logo=intellijidea)
 ![Build](https://img.shields.io/badge/Build-Maven-red?logo=apachemaven)
 ![Status](https://img.shields.io/badge/Status-Learning-success)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
-
+![University](https://img.shields.io/badge/Nişantaşı%20University-Software%20Engineering-blue)
 
 This repository contains my Java learning journey.
 
